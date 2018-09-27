@@ -7,15 +7,13 @@ Thank you for your interesting in our Android Engineer Position.
 	We have been asking all candidates to answer two coding tests. It expect 2 - 3 hours in Questions, please make sure to secure your time.
 	
 ### Coding Test 1.
-You can find first quize at "Coding Test 1" tab.   
-Please write your answer code and share it with us.  
-This quiz to check your Android NDK capability.   
-We are developing Chromium based browser application,  
-so expect candidate has ability to work for Android NDK.  
-
 ![JNI](./images/JNI.png)  
+You can find first quize at "Coding Test 1" tab.   
+Please write your answer code and share it with us. This quiz to check your Android NDK capability.   
+We are developing Chromium based browser application, so expect candidate has ability to work for Android NDK.  
 
-<div style="padding-left: 20%;"><img src ="./images/coding_question_1.gif" /></div>
+![illustration for Coding Test 1](./images/coding_question_1.gif)  
+
 	
 ### Coding Test 2.  
 You can find second quize at "Coding Test 2" tab.   

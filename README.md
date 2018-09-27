@@ -12,7 +12,7 @@ You can find first quize at "Coding Test 1" tab.
 Please write your answer code and share it with us. This quiz to check your Android NDK capability.   
 We are developing Chromium based browser application, so expect candidate has ability to work for Android NDK.  
 
-![illustration for Coding Test 1](./images/coding_question_1.gif)  
+_________________________![illustration for Coding Test 1](./images/coding_question_1.gif)  
 
 	
 ### Coding Test 2.  

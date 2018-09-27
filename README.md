@@ -13,7 +13,9 @@ This quiz to check your Android NDK capability.
 We are developing Chromium based browser application,  
 so expect candidate has ability to work for Android NDK.  
 
-![illustration for Coding Test 1](./images/coding_question_1.gif)
+![JNI](./images/JNI.png)  
+
+<div style="padding-left: 20%;"><img src ="./images/coding_question_1.gif" /></div>
 	
 ### Coding Test 2.  
 You can find second quize at "Coding Test 2" tab.   

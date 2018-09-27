@@ -3,7 +3,7 @@
 
 1. Allocate Seat Map for Meeting Room by Width and Height
 2. Take number of seats by checking the Neighbor, less is better. 
-3. Try 2 solution for taking seat. 
+3. Try 2 solutions for taking seat. 
 	Solution [1]: Taking seat from first. 
 	Solution [2]: Taking seat from last. 
 

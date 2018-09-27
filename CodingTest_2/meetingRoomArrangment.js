@@ -149,7 +149,7 @@ for (let i = 0; i < testItems.length; i++) {
     console.log("<!-- RUN TEST CASE #", counter, "/", totalTestCases, "--------------------------->");
     console.log("@@@@@ Data for Testing: ", testItems[i], testItems[i + 1]);
     if (expectedAnswer != answer) {
-        console.log("X_X Wrong Answer, expectedAnswer:", expectedAnswer, ", But My Answer is: ", answer1, answer2);
+        console.log("X_X Wrong Answer, expectedAnswer:", expectedAnswer, ", But Your Answer is: ", answer1, answer2);
         break;
     } else {
         console.log("^_^b ! ~ OK");

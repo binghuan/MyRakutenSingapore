@@ -120,7 +120,7 @@ let arrangeMeetingRoom = function (inputData, isTrial) {
     if(DBG)console.log("seatMap: ", seatMap);
     //console.log("seats: ", seats);
 
-    // Finnal Step: Check Neighbor
+    // Final Step: Check Neighbor
     let count = 0;
     for (let i = 0; i < width; i++) {
         for (let j = 0; j < height; j++) {

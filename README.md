@@ -24,8 +24,7 @@ Expect candidate to be resolved within 1 - 1.5 hours in Question.
 
 #### Command for execute script for coding question 2. 
 <code>
-cd CodingTest_2  
-node meetingRoomArrangment.js
+cd CodingTest_2; node meetingRoomArrangment.js
 </code>
 
 ![illustration for Coding Test 2](./images/coding_question_2.gif)

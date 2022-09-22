@@ -35,7 +35,7 @@ Coding Test 1. Please share your compress package or Git repository and so on wi
 Coding Test 2. You can find "Share Link(=answer link)" at inside of Share icon on repl.it. Please share this "Share Link" with him.  
 
 	
-## Question1 - Cout up android Application:
+## Question1 - Count up android Application:
 Please create android app will do below things;  
 	1. Every time user tap the button on the screen, the number will count up like 1,2,3,4,5,.....  
 	2. This count up logic is using ndk and user interface is using SDK.  
